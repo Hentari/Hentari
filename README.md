@@ -30,7 +30,7 @@ Chcesz zobaczyć, co potrafię? Wbijaj. 👀
 Chcesz współpracę? Napisz – nie gryzę (chyba że bugi). 😈
 
 📧 p.jozwiakmateusz@gmail.com  
-🔗 LinkedIn: https://www.linkedin.com/in/mateusz-j%C3%B3%C5%BAwiak-3a1942281
+🔗 LinkedIn: https://www.linkedin.com/in/mateusz-j%C3%B3zwiak-3a1942281?
 
 <!--
 **Hentari/Hentari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
