@@ -4,7 +4,7 @@
 
 > _Z magazynu w kod – naprawiam życie i automatyzuję syf 🙂_
 
-Obecnie pracuję nad **[TBA](https://github.com/Hentari)**🚀
+Obecnie pracuję nad **[TBA](https://github.com/Hentari)** 🚀
 
 #### Więcej
 
