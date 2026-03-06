@@ -1,8 +1,10 @@
+<samp>
+
 ### 👋 Tu Mateusz
 
 > _Z magazynu w kod – naprawiam życie i automatyzuję syf 🙂_
 
-Obecnie pracuję nad **[projektami Lua & Python](https://github.com/Hentari)**  
+Obecnie pracuję nad **[TBA](https://github.com/Hentari)**  
 🚀
 
 #### Więcej
@@ -12,6 +14,8 @@ Obecnie pracuję nad **[projektami Lua & Python](https://github.com/Hentari)**
 - [Mail](mailto:p.jozwiakmateusz@gmail.com)
 
 🔥
+
+</samp>
 
 <!--
 **Hentari/Hentari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
